@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "Tesla-M-Devices/device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common",
+    "branch": "n7.1"
+  },
+  {
+    "repository": "SlimRoms/kernel_xiaomi_msm8996",
+    "target_path": "kernel/xiaomi/msm8996",
+    "branch": "ng7.1"
+  },
+  {
+    "repository": "SlimRoms/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "ng7.1"
+  },
+  {
+    "repository": "TheLoonyBin/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "ng7.1"
+  }
+]
